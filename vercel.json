@@ -1,6 +1,5 @@
 {
   "framework": "nextjs",
-  "buildCommand": "cd examples/conversational-ai/nextjs && npm install && npm run build",
-  "outputDirectory": "examples/conversational-ai/nextjs/.next",
-  "installCommand": "cd examples/conversational-ai/nextjs && npm install"
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": ".next"
 } 
